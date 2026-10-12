@@ -26,7 +26,7 @@ Most of the code stays private. What's on this page is the half that wants a pub
 |---|---|
 | [**anteroom-oracle**](https://github.com/anteroom-studio/anteroom-oracle) | AI-powered geopolitical and macro intelligence terminal — crisis replay, scenario simulation, regime detection |
 | [**anteroom-world-model**](https://github.com/anteroom-studio/anteroom-world-model) | Macro market prediction model with historical data going back to 1871 |
-| [**Anteroom-Crypto-Terminal**](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal) | High-speed trading decision terminal — filters low-quality setups using market structure |
+| [**Anteroom-Crypto-Terminal**](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal) | Browser-based crypto market research terminal — live inputs, stability checks, rule-based tradeability assessment |
 | [**ZAI-Genesis**](https://github.com/anteroom-studio/ZAI-Genesis) | Python research program for market cycles, technical patterns and nature-inspired models |
 | [**anteroom-website**](https://github.com/anteroom-studio/anteroom-website) | The studio's own site |
 
