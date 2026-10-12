@@ -30,6 +30,15 @@ Most of the code stays private. What's on this page is the half that wants a pub
 | [**ZAI-Genesis**](https://github.com/anteroom-studio/ZAI-Genesis) | Python research program for market cycles, technical patterns and nature-inspired models |
 | [**anteroom-website**](https://github.com/anteroom-studio/anteroom-website) | The studio's own site |
 
+## Participate in the research
+
+Two open questions have concrete code and testable assumptions behind them:
+
+- **[ZAI Genesis: does seven-engine agreement outperform a baseline?](https://github.com/anteroom-studio/ZAI-Genesis/issues/1)** Reproduce the score, compare a baseline, or show where a cycle assumption fails.
+- **[Crypto Terminal: can we separate observed liquidation events from modeled pressure?](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal/issues/5)** Review the source-boundary problem and [the tested draft fix](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal/pull/6).
+
+Reproducible disagreements, negative findings, tests, and focused reviews are welcome. There is no expectation to agree with a model's conclusions.
+
 ## Reading
 
 - **[Two AIs](https://zawwar16.substack.com/p/two-ais)** — Artificial vs. Autonomous Intelligence. The vocabulary problem at the root of the current AI conversation.
