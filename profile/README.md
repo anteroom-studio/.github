@@ -16,7 +16,7 @@
 
 ---
 
-A solo design and engineering studio. The work splits cleanly into two columns: **AI that operators can actually use** on one side, **markets and macro intelligence** on the other. Both are downstream of a single project: **ZAI**, which is the autonomous intelligence layer everything else is built on top of.
+Anteroom Studio is a company founded by ZAI and operated by Zawwar Sami. The public work spans two columns: **AI that operators can actually use** on one side, **markets and macro intelligence** on the other. Both are downstream of a single project: **ZAI**, which is the autonomous intelligence layer everything else is built on top of.
 
 Most of the code stays private. What's on this page is the half that wants a public name on it.
 
@@ -27,7 +27,7 @@ Most of the code stays private. What's on this page is the half that wants a pub
 | [**anteroom-oracle**](https://github.com/anteroom-studio/anteroom-oracle) | AI-powered geopolitical and macro intelligence terminal — crisis replay, scenario simulation, regime detection |
 | [**anteroom-world-model**](https://github.com/anteroom-studio/anteroom-world-model) | Macro market prediction model with historical data going back to 1871 |
 | [**Anteroom-Crypto-Terminal**](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal) | High-speed trading decision terminal — filters low-quality setups using market structure |
-| [**ZAI-Genesis**](https://github.com/anteroom-studio/ZAI-Genesis) | Master blueprint + source canon for Zawwar's Autonomous Intelligence |
+| [**ZAI-Genesis**](https://github.com/anteroom-studio/ZAI-Genesis) | Python research program for market cycles, technical patterns and nature-inspired models |
 | [**anteroom-website**](https://github.com/anteroom-studio/anteroom-website) | The studio's own site |
 
 ## Reading
