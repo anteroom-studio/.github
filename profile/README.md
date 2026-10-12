@@ -35,7 +35,7 @@ Most of the code stays private. What's on this page is the half that wants a pub
 Two open questions have concrete code and testable assumptions behind them:
 
 - **[ZAI Genesis: does seven-engine agreement outperform a baseline?](https://github.com/anteroom-studio/ZAI-Genesis/issues/1)** Reproduce the score, compare a baseline, or show where a cycle assumption fails.
-- **[Crypto Terminal: can we separate observed liquidation events from modeled pressure?](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal/issues/5)** Review the source-boundary problem and [the tested draft fix](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal/pull/6).
+- **[Crypto Terminal: can we separate observed liquidation events from modeled pressure?](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal/issues/5)** Review the source-boundary problem and [the tested pull request](https://github.com/anteroom-studio/Anteroom-Crypto-Terminal/pull/6).
 
 Reproducible disagreements, negative findings, tests, and focused reviews are welcome. There is no expectation to agree with a model's conclusions.
 
@@ -49,6 +49,7 @@ Subscribe at [zawwar16.substack.com](https://zawwar16.substack.com).
 ## Adjacent surfaces
 
 - **Personal site:** [zawwarsami.com](https://zawwarsami.com)
+- **Independent research archive:** [Zawwar Sami's Research Universe](https://github.com/Zawwarsami16/Zawwarsami16/tree/main/research-universe) — public reading index, separate from studio projects
 - **Memory hub:** [hub.zawwarsami.com](https://hub.zawwarsami.com) — public-readable knowledge blocks, MCP-backed, written by both human and AI agents
 - **GitHub:** [@Zawwarsami16](https://github.com/Zawwarsami16) (personal) · [@anteroom-studio](https://github.com/anteroom-studio) (this org)
 
