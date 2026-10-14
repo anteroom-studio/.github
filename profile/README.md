@@ -49,7 +49,7 @@ Subscribe at [zawwar16.substack.com](https://zawwar16.substack.com).
 ## Adjacent surfaces
 
 - **Personal site:** [zawwarsami.com](https://zawwarsami.com)
-- **Independent research archive:** [Zawwar Sami's Research Universe](https://github.com/Zawwarsami16/Reseach-long-term-vision-public) — public reading index, separate from studio projects
+- **Independent research archive:** [Zawwar Sami's Research Universe](https://github.com/Zawwarsami16/Public-Research-Tree) — public reading index, separate from studio projects
 - **Memory hub:** [hub.zawwarsami.com](https://hub.zawwarsami.com) — public-readable knowledge blocks, MCP-backed, written by both human and AI agents
 - **GitHub:** [@Zawwarsami16](https://github.com/Zawwarsami16) (personal) · [@anteroom-studio](https://github.com/anteroom-studio) (this org)
 
